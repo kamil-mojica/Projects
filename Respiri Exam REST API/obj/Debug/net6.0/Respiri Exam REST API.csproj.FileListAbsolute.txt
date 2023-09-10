@@ -1,0 +1,44 @@
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\appsettings.json
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Respiri Exam REST API.exe
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Respiri Exam REST API.deps.json
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Respiri Exam REST API.runtimeconfig.json
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Respiri Exam REST API.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Respiri Exam REST API.pdb
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\Respiri Exam REST API.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\Respiri Exam REST API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\Respiri Exam REST API.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\Respiri Exam REST API.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\Respiri Exam REST API.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\Respiri Exam REST API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\Respiri Exam REST API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\staticwebassets\msbuild.Respiri Exam REST API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\staticwebassets\msbuild.build.Respiri Exam REST API.props
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Respiri Exam REST API.props
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Respiri Exam REST API.props
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\scopedcss\bundle\Respiri Exam REST API.styles.css
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\Respiri Exam REST API.csproj.CopyComplete
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\Respiri Exam REST API.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\refint\Respiri Exam REST API.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\Respiri Exam REST API.pdb
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\Respiri Exam REST API.genruntimeconfig.cache
+C:\Users\Kamil\source\repos\Respiri Exam REST API\obj\Debug\net6.0\ref\Respiri Exam REST API.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Kamil\source\repos\Respiri Exam REST API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

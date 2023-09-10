@@ -1,0 +1,6 @@
+1. Open the Respiri Exam REST API.sln and run the solution
+2. Use the CreatePerson endpoint to create sample data. Create at least two records to test. Make sure that the id is unique for each record.
+3. After creating the records, open the Respiri Exam Console App.sln and run it.
+4. The console app will show the answer for the first two questions and for the last one it will require the user to input Person Id.
+5. Use any id from the records previously inserted.
+6. Press Enter to display the person record.

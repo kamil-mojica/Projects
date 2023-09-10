@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Respiri Exam Console App", "Respiri Exam Console App.csproj", "{FBE49527-6FCF-4CD7-B8EB-C529714F2E8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE49527-6FCF-4CD7-B8EB-C529714F2E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE49527-6FCF-4CD7-B8EB-C529714F2E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE49527-6FCF-4CD7-B8EB-C529714F2E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE49527-6FCF-4CD7-B8EB-C529714F2E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF95C357-AF2A-4EF3-A14E-D04D95D43A1B}
+	EndGlobalSection
+EndGlobal

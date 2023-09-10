@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Respiri Exam REST API", "Respiri Exam REST API.csproj", "{79F61686-0C7B-45BA-86FA-0AE02A40A442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F61686-0C7B-45BA-86FA-0AE02A40A442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F61686-0C7B-45BA-86FA-0AE02A40A442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F61686-0C7B-45BA-86FA-0AE02A40A442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F61686-0C7B-45BA-86FA-0AE02A40A442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12F8BB8D-8224-45C9-8492-DE65C708857F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Respiri Exam REST API.props" />
+</Project>

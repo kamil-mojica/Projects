@@ -1,0 +1,21 @@
+C:\Users\Kamil\source\repos\Respiri Exam Console App\bin\Debug\net6.0\Respiri Exam Console App.exe
+C:\Users\Kamil\source\repos\Respiri Exam Console App\bin\Debug\net6.0\Respiri Exam Console App.deps.json
+C:\Users\Kamil\source\repos\Respiri Exam Console App\bin\Debug\net6.0\Respiri Exam Console App.runtimeconfig.json
+C:\Users\Kamil\source\repos\Respiri Exam Console App\bin\Debug\net6.0\Respiri Exam Console App.dll
+C:\Users\Kamil\source\repos\Respiri Exam Console App\bin\Debug\net6.0\Respiri Exam Console App.pdb
+C:\Users\Kamil\source\repos\Respiri Exam Console App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kamil\source\repos\Respiri Exam Console App\bin\Debug\net6.0\System.Net.Http.WebRequest.dll
+C:\Users\Kamil\source\repos\Respiri Exam Console App\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\Kamil\source\repos\Respiri Exam Console App\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Kamil\source\repos\Respiri Exam Console App\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\Kamil\source\repos\Respiri Exam Console App\obj\Debug\net6.0\Respiri Exam Console App.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\Respiri Exam Console App\obj\Debug\net6.0\Respiri Exam Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\Respiri Exam Console App\obj\Debug\net6.0\Respiri Exam Console App.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\Respiri Exam Console App\obj\Debug\net6.0\Respiri Exam Console App.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\Respiri Exam Console App\obj\Debug\net6.0\Respiri Exam Console App.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\Respiri Exam Console App\obj\Debug\net6.0\Respiri Exam Console App.csproj.CopyComplete
+C:\Users\Kamil\source\repos\Respiri Exam Console App\obj\Debug\net6.0\Respiri Exam Console App.dll
+C:\Users\Kamil\source\repos\Respiri Exam Console App\obj\Debug\net6.0\refint\Respiri Exam Console App.dll
+C:\Users\Kamil\source\repos\Respiri Exam Console App\obj\Debug\net6.0\Respiri Exam Console App.pdb
+C:\Users\Kamil\source\repos\Respiri Exam Console App\obj\Debug\net6.0\Respiri Exam Console App.genruntimeconfig.cache
+C:\Users\Kamil\source\repos\Respiri Exam Console App\obj\Debug\net6.0\ref\Respiri Exam Console App.dll
